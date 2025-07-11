@@ -9,7 +9,7 @@ To run this sample, you need to deploy an Azure AI Foundry project and agent, an
 
 ### 🔐 Role-based access control in Azure AI Foundry portal
 
-- Azure AI Foundry does not support `DefaultAzureCredential`. To access an Azure AI Foundry project, assign the `Azure AI User` role to the user or service: [RBAC](https://learn.microsoft.com/en-us/azure/ai-foundry/concepts/rbac-azure-ai-foundry)
+- Azure AI Foundry does not support `AzureKeyCredential`. To access an Azure AI Foundry project, assign the `Azure AI User` role to the user or service: [RBAC](https://learn.microsoft.com/en-us/azure/ai-foundry/concepts/rbac-azure-ai-foundry)
 
 ### 📚 Learn more 
 
