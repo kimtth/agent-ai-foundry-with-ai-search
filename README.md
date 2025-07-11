@@ -13,7 +13,7 @@ To run this sample, you need to deploy an Azure AI Foundry project and agent, an
 
 ### 📚 Learn more 
 
-- [Azure AI Foundry Workshop](https://workshop.aifoundry.app/workshop/) [git](https://github.com/Azure/ai-foundry-workshop): `DO NOT USE`.The samples are using deprecated objects.
-    - [Build your code-first agent with Azure AI Foundry](https://microsoft.github.io/build-your-first-agent-with-azure-ai-agent-service-workshop/)
-    - [Azure AI Foundry Agents Samples](https://github.com/Azure-Samples/ai-foundry-agents-samples)
-    - [Azure AI Projects client library for Python](https://github.com/Azure/azure-sdk-for-python/tree/main/sdk/ai/azure-ai-projects/samples): Official Samples
+- [Azure AI Foundry Workshop](https://workshop.aifoundry.app/workshop/) | [git](https://github.com/Azure/ai-foundry-workshop): `DO NOT USE`.The samples are using deprecated objects.
+- [Build your code-first agent with Azure AI Foundry](https://microsoft.github.io/build-your-first-agent-with-azure-ai-agent-service-workshop/)
+- [Azure AI Foundry Agents Samples](https://github.com/Azure-Samples/ai-foundry-agents-samples)
+- [Azure AI Projects client library for Python](https://github.com/Azure/azure-sdk-for-python/tree/main/sdk/ai/azure-ai-projects/samples): Official Samples
